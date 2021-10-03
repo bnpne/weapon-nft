@@ -37,6 +37,7 @@ const Index = () => {
       setupEventListener();
     } catch (error) {
       console.log(error);
+      // hellop
     }
   };
 
